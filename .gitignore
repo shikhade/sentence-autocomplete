@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.bin
+*.pt
+*.ckpt
+*.pkl
+*.safetensors
+env/
+.vscode/
+.ipynb_checkpoints/
+gpt2-wikitext2/
