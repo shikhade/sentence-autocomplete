@@ -11,11 +11,11 @@ This project fine-tunes a pre-trained GPT-2 model on the WikiText-2 dataset to b
 
 # Results
 Epoch	Training Loss
- 1	       3.05
- 2	       2.80
- 3	       2.61
- 10	      ~1.8 (expected)
- 20	      ~1.4 (expected)
+ 1	   -    3.05,
+ 2	   -    2.80,
+ 3	   -    2.61,
+ 10	  -   ~1.8 (expected),
+ 20	  -    ~1.4 (expected).
 
 
 ## 🔁 Inference Demo
