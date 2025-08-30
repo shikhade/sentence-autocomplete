@@ -19,7 +19,7 @@ Epoch	Training Loss
 
 
 ## 🔁 Inference Demo
-~python code
+~python refernce code
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 model = AutoModelForCausalLM.from_pretrained("gpt2-wikitext2-final")
